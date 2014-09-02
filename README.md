@@ -1,6 +1,6 @@
 # uup-service
 
-Your MessageBox place. PHP backend. > http://api.uup.nu
+Your MessageBox place. PHP backend.
 
 # database
 
